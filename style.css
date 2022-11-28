@@ -210,7 +210,7 @@ td, th {
    line-height: 1.5;
 }
 
-.itens{
+.itens:first-child{
    font-weight: bold;
 }
 
