@@ -198,11 +198,11 @@ td, th {
 
 .conteudo-beneficio {
     width: 640px;
-    margin: 1 auto;
+    margin: 0 auto;
 }
 
 .lista-beneficios {
-   width 39%;
+   width 30%;
    display: inline-block;
    vertical-align: top;
 }
